@@ -103,6 +103,9 @@ $data_of_work4 = "Sept 2019";
     <!-- Right Column -->
     <div class="w3-twothird">
     
+    
+    <!-- Part of HM for Lesson4 !!!!!!!!!-->
+    
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Опыт работы</h2>
         <div class="w3-container">
@@ -114,13 +117,13 @@ $data_of_work4 = "Sept 2019";
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Development of radio electronics</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $data_of_work2?> - <?php echo $data_of_work3?></h6>
-          <p>Production of special-purpose radio electronics on high-tech equipment. Programmed equipment, coordinated documentation, kept records of resources consumed</p>
+          <p>He developed radio-electronic products for military use. Provided documentation for the product, their production and testing</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Production of special-purpose radio electronics </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $data_of_work1?> - <?php echo $data_of_work2?></h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
+          <p>Production of special-purpose radio electronics on high-tech equipment. Programmed equipment, coordinated documentation, kept records of resources consumed </p><br>
         </div>
       </div>
  
